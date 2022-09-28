@@ -14,7 +14,7 @@
 
 <h2>I’m currently working on ...</h2>
   
-  - <b>Wireshark Packet Anlysis Lab (Coming Soon) </b>
+  - <p>Wireshark Packet Anlysis Lab (Coming Soon) </p>
   - <b>Windows Active Directory Lab (Coming Soon) </b> 
     
 <h2>I’m currently learning ...</h2>
