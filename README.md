@@ -1,6 +1,6 @@
 <h1>Hi 👋 I'm Hiba! </h1>
   
-<h6>I'm a Cybersecurity student who is currently seeking I.T. internship oppurtunities with a focus in Cybersecurity.</h6>
+<h6>I am a Cybersecurity student who is currently seeking I.T. internship oppurtunities with a focus in Cybersecurity.</h6>
 
 <h2>👩‍💻 Cybersecurity Projects:</h2>
 
