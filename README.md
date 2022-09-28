@@ -2,12 +2,12 @@
   
 <h6>I'm a Cybersecurity student who is currently seeking I.T. internship oppurtunities with a focus in Cybersecurity.</h6>
 
-<h2>Cybersecurity Projects:</h2>
+<h2>👩‍💻 Cybersecurity Projects:</h2>
 
 - <b>Python Scripting: </b>
   - [Port Scanner: Search a server or host for open ports](https://github.com/hibahmad/portscanner)
 
-<h2>Certifications: </h2>
+<h2>📜 Certifications: </h2>
 
   - CompTia <b>Security+</b> (In Progress, November 2022)
   - Google <b>IT Support Professional</b> (Coursera, May 2022)
