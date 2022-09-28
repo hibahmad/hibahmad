@@ -1,11 +1,11 @@
-<h1>Hi there 👋, I'm Hiba! </h1>
+<h1>Hi 👋 I'm Hiba! </h1>
   
 <h6>I'm a Cybersecurity student who is currently seeking I.T. internship oppurtunities with a focus in Cybersecurity.</h6>
 
 <h2>Cybersecurity Projects:</h2>
 
 - <b>Python Scripting: </b>
-  - [Port Scanner: Search a server or host for open ports](https://github.com/joshmadakor1/Sentinel-Lab)
+  - [Port Scanner: Search a server or host for open ports](https://github.com/hibahmad/portscanner)
 
 <h2>Certifications: </h2>
 
