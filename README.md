@@ -15,11 +15,11 @@
 <h2>I’m currently working on ...</h2>
   
   - <p>Wireshark Packet Anlysis Lab (Coming Soon) </p>
-  - <b>Windows Active Directory Lab (Coming Soon) </b> 
+  - <p>Windows Active Directory Lab (Coming Soon) </p> 
     
 <h2>I’m currently learning ...</h2>
   
-   - <b>Web Application Security and Vulnerabilites: https://owasp.org/www-project-top-ten/ </b>
+   - <p>Web Application Security and Vulnerabilites: https://owasp.org/www-project-top-ten/ </p>
 
 <!--
 **hibahmad/hibahmad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
