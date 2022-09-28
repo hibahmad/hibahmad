@@ -12,12 +12,12 @@
   - CompTia <b>Security+</b> (In Progress, November 2022)
   - Google <b>IT Support Professional</b> (Coursera, May 2022)
 
-<h2>I’m currently working on ...</h2>
+<h2>🧪 I’m currently working on ...</h2>
   
   - <p>Wireshark Packet Anlysis Lab (Coming Soon) </p>
   - <p>Windows Active Directory Lab (Coming Soon) </p> 
     
-<h2>I’m currently learning ...</h2>
+<h2>📖 I’m currently learning ...</h2>
   
    - <p>Web Application Security and Vulnerabilites: https://owasp.org/www-project-top-ten/ </p>
 
