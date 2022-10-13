@@ -9,7 +9,7 @@
 
 <h2>📜 Certifications: </h2>
 
-  - CompTia <b>Security+</b> (In Progress, November 2022)
+  - CompTia <b>Security+</b> (In Progress)
   - Google <b>IT Support Professional</b> (Coursera, May 2022)
 
 <h2>🧪 I’m currently working on ... </h2>
